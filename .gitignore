@@ -40,5 +40,12 @@ test/*.js
 *.map
 
 # project
-.vscode/
 lib/
+env
+dist
+
+
+# API
+dev-wallet.json
+prod-wallet.json
+.env
